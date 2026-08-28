@@ -1,4 +1,4 @@
-baseURL = 'https://lindsro.github.io/'
+baseURL = 'https://lindsro.github.io/lindsroblog/'
 locale = 'en-us'
 title = 'The Blazing World'
 themes = 're-terminal'
