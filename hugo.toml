@@ -10,7 +10,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
-  themeColor = "orange"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -47,11 +47,11 @@ pagination.pagerSize = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  TocTitle = "Table of Contents" # default
 
 
   # you can set a banner on the top of the page with a call to action
@@ -75,9 +75,9 @@ pagination.pagerSize = 5
     languageName = "English"
     title = "<em>The Blazing World</em> Blog"
     subtitle = "Projects and Writing by Lindsey Rogers"
-    owner = ""
+    owner = "Lindsey Rogers"
     keywords = ""
-    copyright = ""
+    copyright = "Copyright 2026. Do not reproduce without permission."
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
