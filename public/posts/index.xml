@@ -5,6 +5,21 @@
     <link>http://localhost:1313/lindsroblog/posts/</link>
     <description>Recent content in Posts on The Blazing World</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/lindsroblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2026 19:12:21 -0400</lastBuildDate><atom:link href="http://localhost:1313/lindsroblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginning</title>
+      <link>http://localhost:1313/lindsroblog/posts/beginning/</link>
+      <pubDate>Fri, 28 Aug 2026 19:12:21 -0400</pubDate>
+      
+      <guid>http://localhost:1313/lindsroblog/posts/beginning/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;My name is Lindsey Rogers, and this is my personal website, &lt;!-- raw HTML omitted --&gt;The Blazing World&lt;!-- raw HTML omitted --&gt;. The title comes from the 1666 work of the same name by Margaret Cavendish, Duchess of Newcastle-upon-Tyne. I recently read a novel about her and I was genuinely inspired by the way she would just write whatever she was thinking about and publish it. In our current century, is posted online not (almost) as good as published?&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;My name is Lindsey Rogers, and this is my personal website, &lt;!-- raw HTML omitted --&gt;The Blazing World&lt;!-- raw HTML omitted --&gt;. The title comes from the 1666 work of the same name by Margaret Cavendish, Duchess of Newcastle-upon-Tyne. I recently read a novel about her and I was genuinely inspired by the way she would just write whatever she was thinking about and publish it. In our current century, is posted online not (almost) as good as published?&lt;/p&gt;
+&lt;p&gt;I have a lot of miscellaneous thoughts about my work: librarianship, digital scholarship, feminism; thoughts about interests like politics and environmentalism, about art and books and possibly even knitting. This will function much like a kitchen sink-style blog, as a mix of everything I&amp;rsquo;m thinking about and work that I am interested in. Perhaps it will even be academically published one day? If Mad Madge can do it, so can I&amp;hellip;&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

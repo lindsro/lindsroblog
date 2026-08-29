@@ -73,7 +73,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "The Blazing World"
+    title = "<em>The Blazing World</em> Blog"
     subtitle = "Projects and Writing by Lindsey Rogers"
     owner = ""
     keywords = ""
@@ -89,8 +89,8 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
-      logoHomeLink = "/"
+      logoText = "The Blazing World Blog"
+      logoHomeLink = "https://lindsro.github.io/lindsroblog"
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
