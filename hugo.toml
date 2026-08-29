@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://lindsro.github.io/lindsroblog/'
 locale = 'en-us'
 title = 'The Blazing World'
 themes = 're-terminal'
@@ -73,8 +73,8 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "re-Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "The Blazing World"
+    subtitle = "Projects and Writing by Lindsey Rogers"
     owner = ""
     keywords = ""
     copyright = ""
