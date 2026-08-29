@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/lindsroblog/about/</loc>
+    <lastmod>2026-08-28T21:33:10-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lindsroblog/</loc>
+    <lastmod>2026-08-28T21:33:10-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/lindsroblog/posts/beginning/</loc>
     <lastmod>2026-08-28T19:12:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lindsroblog/posts/</loc>
-    <lastmod>2026-08-28T19:12:21-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/lindsroblog/</loc>
     <lastmod>2026-08-28T19:12:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lindsroblog/categories/</loc>
