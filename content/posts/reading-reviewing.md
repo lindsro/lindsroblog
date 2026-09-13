@@ -5,13 +5,14 @@ author = "Lindsey Rogers"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
-tags = ["reading+reviewing", "Summer 2026", "reading fiction", "Emily St. John Mandel", "Silvia Moreno-Garcia", "Meryl Wilsner", "V.E. Schwab", "Octavia E. Butler", "Dominic Smith", "Daniell Dutton", "reading nonfiction", "Jody Rosen", "James Fox", "Sally Coulthard", "Virginia Postrel", "Jonathan Kennedy"] 
+tags = ["reading+reviewing", "Summer 2026", "reading fiction", "Emily St. John Mandel", "Silvia Moreno-Garcia", "Meryl Wilsner", "V.E. Schwab", "Octavia E. Butler", "Dominic Smith", "Daneille Dutton", "reading nonfiction", "Jody Rosen", "James Fox", "Sally Coulthard", "Virginia Postrel", "Jonathan Kennedy"] 
 keywords = ["reading+reviewing", "Summer 2026"]
 description = "This is the first post in the Reading and Reviewing series, covering what I've been reading and some of my thoughts. This post will cover what I've read from May through August 2026."
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 # Reading and Reviewing I
@@ -95,7 +96,7 @@ Imago: 5/5
 
 ### More non-fiction
 
-This time a history of the world in plagues! Pathogenesis: A History of the World in Eight Plagues is a fascinating book. I picked it up because I was on a bit of a non-fiction audiobook kick and it promised to start from the earliest glimmers of human (or human-like) activity. It was an interesting perspective. I never read Jared Diamond’s **Guns, Germs, and Steel** and this takes the central idea of germs - of disease - and examining human history through that specific lens. I don’t know enough about the topic to refute any of the science, and my primary area of history covers the 19th and 20th century in Europe and North America. I found the chapters on public health in the U.K. to be particularly engaging, particularly because I have previously read Antonia Fraser’s **Perilous Question** about Parliamentary reform in the 1820s and 30s, and had some context for who exactly was responsible for many of the public health failures that led to the deaths of thousands of people every year. This book made me curious about early human genetics and early human history. I hope to find a few more audiobooks on the topic!
+This time a history of the world in plagues! Pathogenesis: A History of the World in Eight Plagues is a fascinating book. I picked it up because I was on a bit of a non-fiction audiobook kick and it promised to start from the earliest glimmers of human (or human-like) activity. It was an interesting perspective. I never read Jared Diamond’s *Guns, Germs, and Steel* and this takes the central idea of germs - of disease - and examining human history through that specific lens. I don’t know enough about the topic to refute any of the science, and my primary area of history covers the 19th and 20th century in Europe and North America. I found the chapters on public health in the U.K. to be particularly engaging, particularly because I have previously read Antonia Fraser’s *Perilous Question* about Parliamentary reform in the 1820s and 30s, and had some context for who exactly was responsible for many of the public health failures that led to the deaths of thousands of people every year. This book made me curious about early human genetics and early human history. I hope to find a few more audiobooks on the topic!
 4/5
 
 
@@ -104,11 +105,9 @@ This time a history of the world in plagues! Pathogenesis: A History of the Worl
 August 30th was the last day of Summer Game, and I managed to read 14 books that counted towards my total for the summer. The Last Painting of Sara de Vos was a fun, almost light read compared to the pretty heavy discussion of plagues and colonization that had been running my August before. It follows three people: an art historian and conservator, a patron, and an artist. It flashes between the 1600s when Sara de Vos, a painter of the Dutch Golden Age, is working on her paintings; to 1950s New York, where the art historian and patron meet after a robbery and a forgery is put in its place; and 2000s Sydney, where the art historian and patron come face-to-face once again. It was fun to read, not particularly challenging, and engrossing. I loved the description of the conservators apartment, of the trips they took, the way the author describes winter and drowning. It was a great read. 
 4/5
 
-Margaret the First, by Danielle Dutton, is a semi-fictionalized account of the life of Margaret Cavendish, Duchess of Newcastle-on-Tyne. Margaret Cavendish is the reason for the title of this blog; she was the first woman to be invited to the Royal Society of London, was a prolific writer, natural philosopher, and a foremother of Science FIction. Her novel **The Blazing World** is the reason for this one; if Margaret can write whatever she wants in a time when most people were illiterate, then I should feel just as empowered to write whatever I want, whenever. This was a quick read, and caused me to do an accidental deep dive into the royal families of Europe, leading me to discover that the king of Norway had died that very day, and now the next person in line is another young blonde woman in her 20s. Europe will be in interesting hands when they all come to power. I hope they are as free as Margaret Cavendish was, and choose to make the world a better place.
+Margaret the First, by Danielle Dutton, is a semi-fictionalized account of the life of Margaret Cavendish, Duchess of Newcastle-on-Tyne. Margaret Cavendish is the reason for the title of this blog; she was the first woman to be invited to the Royal Society of London, was a prolific writer, natural philosopher, and a foremother of Science FIction. Her novel *The Blazing World* is the reason for this one; if Margaret can write whatever she wants in a time when most people were illiterate, then I should feel just as empowered to write whatever I want, whenever. This was a quick read, and caused me to do an accidental deep dive into the royal families of Europe, leading me to discover that the king of Norway had died that very day, and now the next person in line is another young blonde woman in her 20s. Europe will be in interesting hands when they all come to power. I hope they are as free as Margaret Cavendish was, and choose to make the world a better place.
 4/5
 
 
 This was the first installment of Reading and Reviewing! Thank you for reading! Want to chat about something you saw here? Find me on socials (:
-
-
 
