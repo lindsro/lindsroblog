@@ -8,8 +8,6 @@ pagination.pagerSize = 5
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
-  contentTypeName = "resume"
-  contentTypeName = "projects"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
   themeColor = "orange"
